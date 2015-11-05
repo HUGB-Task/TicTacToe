@@ -32,7 +32,7 @@ https://github.com/HUGB-Task/TicTacToe.git
 - **To** **Run:** terminal: $ cd ~/TicTacToe and $ ./gradlew test
 
 ##### Code coverage:
--
+
 
 ##### How to play the game: 
 ###### The game has to be open in a browser! 
